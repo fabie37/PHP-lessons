@@ -1,0 +1,4 @@
+SELECT *
+FROM posts
+ORDER BY id
+ASC
