@@ -28,7 +28,7 @@
     		/*
     		Inserting a specific case
     		$sql          = "INSERT INTO users (user_first, user_last, user_email, user_uid, user_pwd) 
-							VALUES ('Alli', 'Camp', 'allicamp@gmail.com', 'Alli123', 'tester1')";
+							VALUES ('John', 'Camp', 'john@gmail.com', '00001', 'tester1')";
     		mysqli_query($conn, $sql);
     		
 
